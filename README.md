@@ -38,7 +38,7 @@ Easy to Deploy to Heroku.
 Press Below Button to Deploy!
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/Rename-Bot)
-
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=helios-mirror&type=git&repository=anination24%2Fhelios-mirror&branch=master&builder=buildpack&regions=was&env%5B%5D=&ports=8000%3Bhttp%3B%2F)
 #### Thanks to [subinps](https://github.com/subinps) for helping
 #### Inspired from [@HK_Rename_Bot](https://t.me/HK_Rename_Bot) & [@AHToolsBot](https://t.me/AHToolsBot)
 
